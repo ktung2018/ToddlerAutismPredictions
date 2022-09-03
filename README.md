@@ -7,7 +7,7 @@ Findings: Use Feature importance to find the feature that is most relevant in de
           family memeber has ASD has least importance.    
 Findings: Given clean data, all machine learning algorithms applied for this dataset can make highly accurate predictions.    
 Findings: For this dataset, Logistic Regression predicts with highest accuracy with a score of 1  on Model Train Accuracy, Model Test Accuracy, Model Precision,                    Model Recall, Model AUC. The other machine learning algorithms exhibit above 0.9 accuracy scores.
-
+Findings: GridSearchCV was used to optimize the parameters for hyperparameter tuning.
 
 ![image](https://user-images.githubusercontent.com/35645038/188266309-43d6cbe1-f542-4bae-a1fb-de4726c6a0d2.png)
 ![image](https://user-images.githubusercontent.com/35645038/188266951-ee3024dd-5c5f-46b3-83f0-1f335d4504bb.png)
