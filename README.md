@@ -1,6 +1,7 @@
 # ToddlerAutismPredictions
 
-Prediction of Toddler Autism based on 10 screening questionaires and other personal traits. This porgram uses descriptive and predictive analyses such as classification, clustering, regression, Support Vector Machine, Random Forest, Decision Tree, KNeighborClassifier etc. to estimate the predictive power of machine learning techniques in detecting autistic traits
+Prediction of Toddler Autism based on 10 screening questionaires and other personal traits. This porgram uses descriptive and predictive analyses such as classification, clustering, regression, Support Vector Machine, Naive Bayes, Random Forest, Decision Tree, KNeighborClassifier etc. to estimate the predictive power of machine learning techniques in detecting autistic traits
+Accuracy of each machine learning alroithm is evaluated and summarised using Confusion Matrix, Accuracy Score, Model Precision, Model Recall scores.
 
 ![image](https://user-images.githubusercontent.com/35645038/188266309-43d6cbe1-f542-4bae-a1fb-de4726c6a0d2.png)
 ![image](https://user-images.githubusercontent.com/35645038/188266951-ee3024dd-5c5f-46b3-83f0-1f335d4504bb.png)
