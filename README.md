@@ -15,7 +15,7 @@ Findings: GridSearchCV was used to optimize the parameters for hyperparameter tu
 ![image](https://user-images.githubusercontent.com/35645038/188278065-828272a8-d282-4f11-bac7-f6abd87b5a0a.png)
 ![image](https://user-images.githubusercontent.com/35645038/188278120-e8949c22-b157-4324-885f-c237c581072b.png)
 ![image](https://user-images.githubusercontent.com/35645038/188278168-bc090881-a430-4411-94ae-be13a795c4b9.png)
-
+#### Use GridSearchCV to optimize the parameters
 
 ![image](https://user-images.githubusercontent.com/35645038/188266397-e8bfb878-d8a1-4687-9798-ccd795af44f0.png)
 ![image](https://user-images.githubusercontent.com/35645038/188266491-06d1d114-a098-4bf9-88b4-e0539d17bae0.png)
