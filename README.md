@@ -2,8 +2,8 @@
 
 Prediction of Toddler Autism based on 10 screening questionaires and other personal traits. This porgram uses descriptive and predictive analyses such as classification, clustering, regression, Support Vector Machine, Naive Bayes, Random Forest, Decision Tree, KNeighborClassifier etc. to estimate the predictive power of machine learning techniques in detecting autistic traits. Accuracy of each machine learning alroithm is evaluated and summarised using Confusion Matrix, Accuracy Score, Model Precision, Model Recall scores, etc.
 
-Findings: Use Feature importance to find the feature that is most relevant in detecting Toddler Autism
-Findings: Given clean data most machine learning algorithms can predict with high accuracy scores.
+Findings: Use Feature importance to find the feature that is most relevant in detecting Toddler Autism.     
+Findings: Given clean data most machine learning algorithms can predict with high accuracy scores.     
 Findings: For this dataset, logistic regression predicts with highest accuracy.
 
 
